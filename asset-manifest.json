@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/suggestion/static/css/main.dad12d1c.chunk.css",
+    "main.js": "/suggestion/static/js/main.ed9e3c8c.chunk.js",
+    "main.js.map": "/suggestion/static/js/main.ed9e3c8c.chunk.js.map",
+    "runtime-main.js": "/suggestion/static/js/runtime-main.bff7c406.js",
+    "runtime-main.js.map": "/suggestion/static/js/runtime-main.bff7c406.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/suggestion/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.7cc2af92.chunk.js": "/suggestion/static/js/2.7cc2af92.chunk.js",
+    "static/js/2.7cc2af92.chunk.js.map": "/suggestion/static/js/2.7cc2af92.chunk.js.map",
+    "index.html": "/suggestion/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/suggestion/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.dad12d1c.chunk.css.map": "/suggestion/static/css/main.dad12d1c.chunk.css.map",
+    "static/js/2.7cc2af92.chunk.js.LICENSE.txt": "/suggestion/static/js/2.7cc2af92.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/suggestion/static/media/back.24d4884d.jpg",
+    "static/media/search.css": "/suggestion/static/media/loading.d93f39d7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff7c406.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.7cc2af92.chunk.js",
+    "static/css/main.dad12d1c.chunk.css",
+    "static/js/main.ed9e3c8c.chunk.js"
+  ]
+}
